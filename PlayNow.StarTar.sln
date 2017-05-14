@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayNow.StarTar", "src\PlayNow.StarTar\PlayNow.StarTar.csproj", "{803DDAC8-4394-4208-9E9A-B45D1A31AE21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "src\Test\Test.csproj", "{900816B4-9C64-48AE-A25A-D74EC7E15E08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{803DDAC8-4394-4208-9E9A-B45D1A31AE21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803DDAC8-4394-4208-9E9A-B45D1A31AE21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803DDAC8-4394-4208-9E9A-B45D1A31AE21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803DDAC8-4394-4208-9E9A-B45D1A31AE21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{900816B4-9C64-48AE-A25A-D74EC7E15E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900816B4-9C64-48AE-A25A-D74EC7E15E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900816B4-9C64-48AE-A25A-D74EC7E15E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900816B4-9C64-48AE-A25A-D74EC7E15E08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
