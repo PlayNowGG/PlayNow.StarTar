@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard1.6</TargetFramework>
+    <Authors>PlayNow</Authors>
+    <Company>PlayNow.GG</Company>
+    <Description>A .Net Standard library for reading and writing GNU tar archives.</Description>
+    <Copyright>Copyright © PlayNow.GG 2017</Copyright>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/PlayNowGG/PlayNow.StarTar/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/PlayNowGG/PlayNow.StarTar</PackageProjectUrl>
+    <PackageTags>tar, star, archive, tar-archive</PackageTags>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
